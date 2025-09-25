@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Instrumentation"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "abc86ff9-d113-a96c-f0e1-24549b866cb8",
+  "instructors": {
+    "content": [
+      "ed134986-b322-073a-adfa-83a85fbe4f4d",
+      "df95f72c-24ee-f4f8-ca25-a7b1dea8b16b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6a8f6d43-f91b-fd1e-caa2-960dface3e2a",
+    "website": "res-hst-001-mit-little-devices-lab-fall-2021"
+  },
+  "course_title": "MIT Little Devices Lab",
+  "hide_download": true,
+  "course_description": "The MIT Little Devices Lab collaborates with healthcare professionals in developing countries to create affordable health and medical technologies. A large number of these healthcare professionals are nurses, and have been described as \u201cstealth innovators,\u201d \u201cNurseMakers,\u201d and \u201cMacGyver Nurses.\u201d (Rice, S. \"[Nurses Devise Their Own Innovations](https://www.modernhealthcare.com/article/20151017/MAGAZINE/310179976/nurses-devise-their-own-innovations).\" _Modern Healthcare_, 17 Oct., 2015).\n\nThe Little Devices Lab helps support these inventors by sending them kits with the modular parts and materials to invent and build their own customized, cost-effective medical devices. They can then solve challenges specific to their patients and work environments, for a range of applications from diagnostics to microfluidics to drug delivery.\n\nSimilar to how breadboards enabled people to more easily build their own electronics, one of the lab\u2019s projects involved creating a biochemical breadboard with plug-and-play sets of blocks for building paper analytical devices, which healthcare workers can use to make diagnostic tests that meet their needs.\n\nOn the Little Devices Lab\u2019s site, users will find more details about the lab's ongoing projects and research, video presentations about its work, and several of its members' publications.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.HST-001",
+  "course_image_thumbnail": {
+    "content": "0d820c95-17f1-01bb-1595-c7a08cd99ec8",
+    "website": "res-hst-001-mit-little-devices-lab-fall-2021"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e0184fca-2663-4215-90fa-e3ccdf1d2461",
+  "site_short_id": "res.hst-001-fall-2021",
+  "site_url_path": "courses/res-hst-001-mit-little-devices-lab-fall-2021",
+  "title": "Course Metadata"
+}
