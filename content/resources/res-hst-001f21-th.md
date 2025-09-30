@@ -8,6 +8,8 @@ description: Ampli construction sets are modular blocks designed to contain pape
 file: /courses/res-hst-001-mit-little-devices-lab-fall-2021/0d820c9517f101bb1595c7a08cd99ec8_res-hst-001f21-th.jpg
 file_size: 5484
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Ampli construction sets are modular blocks with paper-based fluidic elements,
     that can be connected to form paperfluidic circuits. These support quick and easy
